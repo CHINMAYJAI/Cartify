@@ -32,7 +32,7 @@ To get started with Cartify, follow these steps:
 
 2. **Navigate to the Project Directory**: Change into the project directory:
    ```bash
-   cd FullStack-Playground/frontend_development/Cartify
+   cd Cartify
    ```
 
 3. **Install Dependencies**: Run the following command to install all necessary dependencies:
