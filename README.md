@@ -27,7 +27,7 @@ To get started with Cartify, follow these steps:
 
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/CHINMAYJAI/FullStack-Playground.git
+   git clone https://github.com/CHINMAYJAI/Cartify.git
    ```
 
 2. **Navigate to the Project Directory**: Change into the project directory:
